@@ -1,4 +1,4 @@
-CESIUM(Google Maps + Open Street Map API)
+                                  CESIUM(Google Maps + Open Street Map API)
 
 This project uses CESIUM to display data because of 3D respresentation.
 
